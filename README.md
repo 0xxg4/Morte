@@ -6,6 +6,26 @@
   death clock.
 </p>
 
+## Install
+
+Download the `zip` file from [Releases Page](https://github.com/0xxg4/Morte/releases), extract it, go to `Morte-1.0/bin` and run it!
+
+## Build
+
+```shell
+
+git clone https://github.com/0xxg4/Morte.git
+
+cd Morte
+
+./gradlew installDist
+
+cd build/install/Morte/bin
+
+./Morte (./Morte.bat if you are using windows)
+
+```
+
 ## License
 
 Copyright (C) 2020  Gabriel Polastrini
