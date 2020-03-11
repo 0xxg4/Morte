@@ -1,0 +1,1 @@
+/home/gabriel/Projects/Morte/build/classes/kotlin/main/Morte$Companion.class:/home/gabriel/Projects/Morte/build/classes/kotlin/main/Morte.class
