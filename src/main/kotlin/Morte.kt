@@ -16,7 +16,7 @@ class Morte {
                         "-------------------by 0xxg4------------------\n"
             )
 
-            println("- How old are you?")
+            println("- How old are you?\n")
 
             val inp = Integer.valueOf(readLine())
 
